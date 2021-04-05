@@ -34,7 +34,7 @@
     width: 35px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 940px) {
     .discover-main-section {
         flex-direction: column;
         justify-content: center;
