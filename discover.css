@@ -34,6 +34,10 @@
     width: 35px;
 }
 
+.title {
+    margin-bottom: 3 rem;
+}
+
 @media (max-width: 940px) {
     .discover-main-section {
         flex-direction: column;
@@ -46,8 +50,8 @@
         width: auto;
 }
 
+.covers-image {
+    margin-left: 0px;
 }
 
-.title {
-    margin-bottom: 3 rem;
 }
