@@ -115,4 +115,9 @@ body {
     background-color: #2796ff;
 }
 
+@media (max-width: 400px) {
 
+html {
+    overflow: hidden;
+}
+}
